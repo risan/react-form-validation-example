@@ -1,0 +1,19 @@
+.radio + .radio {
+    margin-left: 1em;
+}
+
+.radio input[type=radio] {
+    float: left;
+    margin-top: 4px;
+    margin-right: 4px;
+}
+
+.checkbox + .checkbox {
+    margin-left: .5em;
+}
+
+.checkbox input[type=checkbox] {
+    float: left;
+    margin-top: 4px;
+    margin-right: 4px;
+}
